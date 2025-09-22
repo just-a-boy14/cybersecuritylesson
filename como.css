@@ -1,0 +1,40 @@
+body {
+	background-color: blue;
+	font-family: "Courier New", monospace;
+	color: cyan;
+	text-align:center;
+	font-size: 36px;
+}
+h1 {
+	display:inline-block;	/"i eat computers bro"/
+		background-color: cyan/"background only around text"
+		font-size:32pt;
+		color: red;
+	
+}
+
+h2 {
+		display:inline-block;	/"test"/
+		background-color: orange
+		font-size:32pt;
+		color: red;
+	
+}
+ img {
+		display: block;
+		float: left;
+		margin: 0 15px 15px 0;
+ }
+ p {
+	 background-color: red;
+	 font-family: "Times New Roman", Times, serif,
+	 font-size: 12pt;
+ }
+ p.shrt {
+	display: inline-block: /*Shrinks width to fit content */
+	background-color: lightyellow /**
+ }
+ .row {
+	 dusplay: flex;
+	 gap: 20px;
+ }
